@@ -42,5 +42,5 @@ int main()
 			printf("   (%d,%d)\n",result1,result2-result1);
 		}
 	}
-	return 0;
+	return 1;
 }
